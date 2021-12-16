@@ -1,0 +1,5 @@
+2021-12-16T17:44:32.521+0800	info	D:/workspace_go/oms/pkg/global/log/logger.go:89	Logger init success	{"application": "chat-room"}
+2021-12-16T17:45:03.300+0800	info	D:/workspace_go/oms/pkg/global/log/logger.go:89	Logger init success	{"application": "chat-room"}
+2021-12-16T17:45:03.300+0800	info	D:/workspace_go/oms/cmd/cobra.go:40	init	{"application": "chat-room"}
+2021-12-16T17:48:04.603+0800	info	D:/workspace_go/oms/pkg/global/log/logger.go:89	Logger init success	{"application": "testApp"}
+2021-12-16T17:48:04.604+0800	info	D:/workspace_go/oms/cmd/cobra.go:40	init	{"application": "testApp"}
